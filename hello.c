@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() { 
-   printf("Hello, Wod!");
+   printf("Hellood!");
    printf("sf");
    printf("sff\n");
    printf("df");
